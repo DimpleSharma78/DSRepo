@@ -1,2 +1,2 @@
 # DSRepo
-First Repo for demo
+DSRepo for Git commands demo
